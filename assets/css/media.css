@@ -1,0 +1,17 @@
+@media(max-width: 900px)
+{
+    .mobile-none{
+        display: none !important;
+    }
+    .screen-only{
+        display: block !important;
+    }
+   
+    .loader .hilt .handle
+    {
+        display: none;
+    }
+    .loader .drop-water:nth-child(2) {
+        left: 50%;
+    }
+}
